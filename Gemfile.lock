@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    crontab (0.0.2)
+    crontab-parser (0.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  crontab (~> 0.0.2)
+  crontab-parser (~> 0.1.0)
+
+BUNDLED WITH
+   2.1.4
